@@ -21,4 +21,4 @@ elif imc > 40:
 else:
     print("Tente novamente, pode ter ocorrido um erro, sinto muito, estou melhorando aos poucos")
 
-print("Seu IMC é: %.4f" % imc,"Kg")
+print("Seu IMC é: %.2f" % imc,"Kg")
